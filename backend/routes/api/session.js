@@ -17,9 +17,6 @@ const router = express.Router();
 // backend/routes/api/session.js
 // ...
 
-// backend/routes/api/session.js
-// ...
-
 // Log in
 router.post(
     '/',
